@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" type="My Application" tools:ignore="ResourceCycle">My Application</string>
+    <string name="my_string" type="Danger Near Me" tools:ignore="ResourceCycle">Danger Near Me</string>
+    <string name="my_string_2" type="Future Prevalence" tools:ignore="ResourceCycle">Future Prevalence</string>
+</resources>
