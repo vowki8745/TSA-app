@@ -2,4 +2,12 @@
     <string name="app_name" type="My Application" tools:ignore="ResourceCycle">My Application</string>
     <string name="my_string" type="Danger Near Me" tools:ignore="ResourceCycle">Danger Near Me</string>
     <string name="my_string_2" type="Future Prevalence" tools:ignore="ResourceCycle">Future Prevalence</string>
+    <string name="my_string_3" type="Recent(5 Years)" tools:ignore="ResourceCycle">Recent(5 Years)</string>
+    <string name="my_string_4" type="All Time" tools:ignore="ResourceCycle">All Time</string>
+    <string name="my_string_5" type="Questions" tools:ignore="ResourceCycle">Questions</string>
+    <string name="my_string_6" type="Time" tools:ignore="ResourceCycle">Time</string>
+    <string name="my_string_7" type="To" tools:ignore="ResourceCycle">To</string>
+    <string name="my_string_8" type="Submit" tools:ignore="ResourceCycle">Submit</string>
+    <string name="my_string_9" type="o" tools:ignore="ResourceCycle">o</string>
+    <string name="my_string_10" type="submit" tools:ignore="ResourceCycle">SUBMIT</string>
 </resources>
